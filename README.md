@@ -15,7 +15,7 @@ A web application that predicts NBA game outcomes using machine learning. Built 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nba-win-predictor.git
+   git clone https://github.com/shloksachdev/nba-win-predictor.git
    cd nba-win-predictor
    ```
 
